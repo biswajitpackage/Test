@@ -4,7 +4,7 @@ const Aaa =(props)=>{
     const {data} =props;
     return(
         <View>
-            <Text>sss  {data.name}</Text>
+            <Text>sss {data.name}</Text>
         </View>
     )
 }
